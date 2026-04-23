@@ -20,3 +20,5 @@ practica
     ├── lib
     ├── lib64 -> lib
     └── pyvenv.cfg
+
+requiere instalar kafka-python desde pip
